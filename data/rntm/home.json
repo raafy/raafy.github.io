@@ -1,3 +1,18 @@
-{
-    "title": "React Native Training Module"
+{ 
+ "home": {
+    "title": "React Native Training Module",
+    "contents": [
+      "Installation",
+      "Creating UI",
+      "Local Storage",
+      "API",
+      "Device Property",
+      "Push Notification",
+      "Push Notification",
+      "Web View",
+      "Deep Linking",
+      "OAuth (Client)",
+      "Compiling Application"
+    ]
+  }
 }
