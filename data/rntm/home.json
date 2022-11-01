@@ -1,18 +1,14 @@
 { 
- "home": {
     "title": "React Native Training Module",
     "contents": [
-      "Installation",
-      "Creating UI",
-      "Local Storage",
-      "API",
-      "Device Property",
-      "Push Notification",
-      "Push Notification",
-      "Web View",
-      "Deep Linking",
-      "OAuth (Client)",
-      "Compiling Application"
-    ]
-  }
+     {"id": "1", "title": "Installation"},
+     {"id": "2", "title": "Creating UI"},
+     {"id": "3", "title": "Local Storage"},
+     {"id": "4", "title": "API"},
+     {"id": "5", "title": "Device Property"},
+     {"id": "6", "title": "Push Notification"},
+     {"id": "7", "title": "Web View"},
+     {"id": "8", "title": "Deep Linking"},
+     {"id": "9", "title": "OAuth"},
+     {"id": "10", "title": "Compiling Application"},
 }
