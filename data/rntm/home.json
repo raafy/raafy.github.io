@@ -1,15 +1,15 @@
 { 
     "title": "React Native Training Module",
     "contents": [
-     {"id": "1", "title": "Installation"},
-     {"id": "2", "title": "Creating UI"},
-     {"id": "3", "title": "Local Storage"},
-     {"id": "4", "title": "API"},
-     {"id": "5", "title": "Device Property"},
-     {"id": "6", "title": "Push Notification"},
-     {"id": "7", "title": "Web View"},
-     {"id": "8", "title": "Deep Linking"},
-     {"id": "9", "title": "OAuth"},
-     {"id": "10", "title": "Compiling Application"}
+     {"id": "1", "title": "Installation", "screen": "Installation"},
+     {"id": "2", "title": "Creating UI", "screen": "UI"},
+     {"id": "3", "title": "Local Storage", "screen": "LocalStorage"},
+     {"id": "4", "title": "API", "screen": "APIGuide"},
+     {"id": "5", "title": "Device Property", "screen": "DeviceProperty"},
+     {"id": "6", "title": "Push Notification", "screen": "PushNotification"},
+     {"id": "7", "title": "Web View", "screen": "WebView"},
+     {"id": "8", "title": "Deep Linking", "screen": "DeepLinking"},
+     {"id": "9", "title": "OAuth", "screen": "OAuth"},
+     {"id": "10", "title": "Compiling Application", "screen": "CompileApplication"}
     ]
 }
