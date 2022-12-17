@@ -1,18 +1,20 @@
-import React from 'react'
-import Styles from '../styles/Home.module.css'
+import React from "react";
+import Styles from "../styles/Home.module.css";
+import Head from "next/head";
 
 export default function index() {
   return (
-    <div className={Styles.container}>
-      <header className={Styles.header}>
-        <div>
+    <>
+      <Head>
+        <title>Home</title>
+      </Head>
+      <div className={Styles.container}>
+        <header className={Styles.header}>
+          <div></div>
+        </header>
 
-        </div>
-      </header>
-      
-      <footer>
-
-      </footer>
-    </div>
-  )
+        <footer></footer>
+      </div>
+    </>
+  );
 }
